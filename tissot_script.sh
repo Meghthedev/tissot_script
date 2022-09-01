@@ -14,7 +14,7 @@ git clone https://github.com/Meghthedev/device_xiaomi_msm8953-common-1.git -b ti
 echo also done
 echo guess what time it is, vendor time
 
-git clone https://github.com/Meghthedev/vendor_xiaomi_tissot-1 vendor/xiaomi/tissot -b tiramisu vendor/xiaomi/tissot
+git clone https://github.com/Meghthedev/vendor_xiaomi_tissot-1 vendor/xiaomi/tissot -b tiramisu
 
 echo cant forget common vendor
 
